@@ -1,4 +1,5 @@
 # Import the random library to use for the dice later
+#testing GitHub
 import random
 
 # Hero's Attack Functions
